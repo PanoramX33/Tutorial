@@ -6,7 +6,6 @@ ul, ol{
 }
 .logo-link{
         font-family: 'Raleway', sans-serif;
-        font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 1, 19;
@@ -21,10 +20,9 @@ ul, ol{
     }
 .menu-link{
     font-family:'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
 }
@@ -36,7 +34,7 @@ ul, ol{
     font-family:'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     color: #757575;
 }
 .header-tel-mail :hover,
@@ -54,7 +52,7 @@ ul, ol{
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     color: #FFFFFF;
 }
 .service{
@@ -71,33 +69,31 @@ ul, ol{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    
     color: #212121;
 }
 .information-text-team{
     font-family:'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: #757575;
 }
 .information-job-team{
-    font-family: 'Roboto',sans-serif
+    font-family: 'Roboto',sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.16;
     text-align: center;
     color: #212121;
 }
 .team-name{
-    font-family: 'Roboto',
-    sans-serif
-    font-weight: 500;
+    font-family: 'Roboto',sans-serif;
+    font-weight:500;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.18;
     color: #212121;
 }
 /*=============== foter ================*/
@@ -110,17 +106,17 @@ ul, ol{
 }
 .adress-maps{
     font-family:'Roboto',sans-serif;
-    font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height:1.71;
     color: #FFFFFF;
 }
 .adress-contact{
-    font-family: 'Roboto',sans-serif
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: rgba(255, 255, 255, 0.6);
     /*=============== foter ================*/
 }
@@ -130,7 +126,7 @@ ul, ol{
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1, 19;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: #2196F3;
 }
@@ -148,7 +144,7 @@ ul, ol{
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
 }
@@ -162,7 +158,7 @@ ul, ol{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     color: #757575;
 }
 
@@ -171,24 +167,25 @@ ul, ol{
     color: #2196F3;
 }
 .portfolio-setting{
-    font-family: 'Roboto',sans-serif
+    font-family: 'Roboto',sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px; 
+    line-height: 1.62; 
     color: #FFFFFF;
 }
 .information-portfolio{
-    font-family: 'Roboto',sans-serif
+    font-family: 'Roboto',sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
     color: #212121;
 }
 .information-web{
-    font-family: 'Roboto',sans-serif
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.87;
     color: #757575;
 }
 .footer-portfolio{
@@ -199,18 +196,19 @@ ul, ol{
         background: #2F303A;
 }
 .adress-maps-portfolio {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: #FFFFFF;
 }
 
 .adress-contact-portfolio {
-    font-family: 'Roboto',sans-serif
+    font-family: 'Roboto',sans-serif;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     color: rgba(255, 255, 255, 0.6);
 
 /*=============== Portfolio================*/
